@@ -13,11 +13,13 @@
 main h1{
   margin-bottom:40px;
 }
-main p{
+main section{
+  margin-bottom:15px;
   background:tomato;
   padding:20px;
   color:white;
 }
+
 @media (min-width: 576px) { 
 
  }
