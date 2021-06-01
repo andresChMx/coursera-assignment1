@@ -1,0 +1,41 @@
+.navbar{
+  background:steelblue !important;
+  color:white !important;
+}
+.navbar .navbar-brand{
+  color:white !important;
+
+}
+
+.nav-link{
+  color:white  !important;
+}
+main h1{
+  margin-bottom:40px;
+}
+main p{
+  background:tomato;
+  padding:20px;
+  color:white;
+}
+@media (min-width: 576px) { 
+
+ }
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) { 
+    .collapse.navbar-collapse{
+        display: none !important; 
+    }    
+}
+
+@media (min-width: 1200px) {
+
+  }
+
+@media (min-width: 1400px) { 
+
+}
